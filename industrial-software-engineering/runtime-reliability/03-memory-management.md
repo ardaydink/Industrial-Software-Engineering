@@ -192,4 +192,4 @@ AddressSanitizer örneği üzerinden `new`, `delete`, pointer ve use-after-free 
 
 ---
 
-[Back to Main Documentation](../README.md)
+[Back to Main Documentation](../../README.md)
