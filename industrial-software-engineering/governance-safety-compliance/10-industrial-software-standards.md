@@ -259,4 +259,4 @@ STM32 Safety Manual üzerinden gerçek diagnostic mechanisms'ı, X-CUBE-STL ve S
 
 ---
 
-[Back to Main Documentation](../README.md)
+[Back to Main Documentation](../../README.md)
