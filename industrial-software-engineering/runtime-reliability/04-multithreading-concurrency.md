@@ -257,4 +257,4 @@ ThreadSanitizer örneği üzerinden iki thread'in aynı değişkene erişirken n
 
 ---
 
-[Back to Main Documentation](../README.md)
+[Back to Main Documentation](../../README.md)
