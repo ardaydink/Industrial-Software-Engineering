@@ -257,4 +257,4 @@ Prometheus Node Exporter örneği üzerinden bir Linux service configuration dos
 
 ---
 
-[Back to Main Documentation](../README.md)
+[Back to Main Documentation](../../README.md)
