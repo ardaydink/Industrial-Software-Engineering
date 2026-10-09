@@ -229,4 +229,4 @@ FreeRTOS örneği üzerinden periodic task scheduling mantığını, Universal R
 
 ---
 
-[Back to Main Documentation](../README.md)
+[Back to Main Documentation](../../README.md)
