@@ -195,4 +195,4 @@ GDB örneği sayesinde bir programın nasıl adım adım incelenebileceğini, Gi
 
 ---
 
-[Back to Main Documentation](../README.md)
+[Back to Main Documentation](../../README.md)
