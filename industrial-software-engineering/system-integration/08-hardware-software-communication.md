@@ -246,4 +246,4 @@ pySerial üzerinden gerçek ve virtual serial communication arasındaki farkı, 
 
 ---
 
-[Back to Main Documentation](../README.md)
+[Back to Main Documentation](../../README.md)
