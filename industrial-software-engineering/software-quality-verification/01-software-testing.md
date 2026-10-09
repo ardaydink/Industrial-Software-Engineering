@@ -177,4 +177,4 @@ GitLab örneği ise daha büyük yazılım projelerinde testlerin ekip tarafınd
 
 ---
 
-[Back to Main Documentation](../README.md)
+[Back to Main Documentation](../../README.md)
