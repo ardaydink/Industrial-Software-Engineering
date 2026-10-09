@@ -26,25 +26,29 @@ açıklamaktır.
 
 ## Learning Roadmap
 
-```text
-INDUSTRIAL SOFTWARE ENGINEERING
-│
-├── Software Quality & Verification
-│   ├── Software Testing
-│   └── Debugging & Root Cause Analysis
-│
-├── Runtime Reliability
-│   ├── Memory Management & Memory Safety
-│   ├── Multithreading & Concurrency
-│   └── Performance & Profiling
-│
-├── Platform & Timing
-│   ├── Linux-Based Systems
-│   └── Real-Time Systems
-│
-├── System Integration
-│   └── Hardware & Software Communication
-│
-└── Governance, Safety & Compliance
-    ├── Open Source Software in Industry
-    └── Industrial Software Standards
+Araştırdığım konuları, endüstriyel yazılım geliştirmenin farklı alanlarına göre beş ana grupta topladım. Her başlığa tıklayarak ilgili araştırma notlarına, kod örneklerine ve endüstriyel uygulamalara ulaşabilirsiniz.
+
+### Software Quality & Verification
+
+- [01. Software Testing](industrial-software-engineering/software-quality-verification/01-software-testing.md)
+- [02. Debugging & Root Cause Analysis](industrial-software-engineering/software-quality-verification/02-debugging-root-cause-analysis.md)
+
+### Runtime Reliability
+
+- [03. Memory Management & Memory Safety](industrial-software-engineering/runtime-reliability/03-memory-management.md)
+- [04. Multithreading & Concurrency](industrial-software-engineering/runtime-reliability/04-multithreading-concurrency.md)
+- [05. Performance & Profiling](industrial-software-engineering/runtime-reliability/05-performance-profiling.md)
+
+### Platform & Timing
+
+- [06. Linux-Based Systems](industrial-software-engineering/platform-timing/06-linux-based-systems.md)
+- [07. Real-Time Systems](industrial-software-engineering/platform-timing/07-real-time-systems.md)
+
+### System Integration
+
+- [08. Hardware & Software Communication](industrial-software-engineering/system-integration/08-hardware-software-communication.md)
+
+### Governance, Safety & Compliance
+
+- [09. Open Source Software in Industry](industrial-software-engineering/governance-safety-compliance/09-open-source-software-in-industry.md)
+- [10. Industrial Software Standards](industrial-software-engineering/governance-safety-compliance/10-industrial-software-standards.md)
